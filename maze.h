@@ -1,0 +1,1 @@
+void ImprimirLab (int Posx, int Posy);
